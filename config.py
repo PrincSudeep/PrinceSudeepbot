@@ -10,7 +10,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "7784745166:AAFru3qJ-S8PGbfAtARMJa6m7BTrx3kt8_A"
 URL = getenv("URL", "")
 PORT = int(getenv("PORT", "8080"))
 PICS = (getenv('PICS', 'https://i.ibb.co/FLqsX4LJ/photo-2025-05-04-11-37-43-7595917754834616348.jpg https://i.ibb.co/8g1Bn6GD/photo-2025-06-01-08-12-59-7595917759129583620.jpg')).split() 
-GRP_LNK = getenv('GRP_LNK', 'https://t.me/+-r5KwO5DXEoxODFl')')
+GRP_LNK = getenv('GRP_LNK', 'https://t.me/+-r5KwO5DXEoxODFl')
 CHNL_LNK = getenv('CHNL_LNK', 'https://t.me/+AEHdKFeiNt9jMjk1')
 
 # Bot Admins & Channels
