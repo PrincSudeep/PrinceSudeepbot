@@ -4,12 +4,12 @@ from os import getenv
 # Bot information
 API_ID = getenv("API_ID", "23416113")
 API_HASH = getenv("API_HASH", "5f66046e7129c9bf6e2b3da943ae2993")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "7784745166:AAG__NxPc6H91pn9KchPXwXwSQDqXO0k3Xs")
 
 #Koyeb Vars And VPS 
 URL = getenv("URL", "")
 PORT = int(getenv("PORT", "8080"))
-PICS = (getenv('PICS', ' ')).split() 
+PICS = (getenv('PICS', 'https://i.ibb.co/FLqsX4LJ/photo-2025-05-04-11-37-43-7595917754834616348.jpg https://i.ibb.co/8g1Bn6GD/photo-2025-06-01-08-12-59-7595917759129583620.jpg')).split() 
 GRP_LNK = getenv('GRP_LNK', 'https://t.me/+-r5KwO5DXEoxODFl')')
 CHNL_LNK = getenv('CHNL_LNK', 'https://t.me/+AEHdKFeiNt9jMjk1')
 
