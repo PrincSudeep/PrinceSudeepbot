@@ -4,7 +4,7 @@ from os import getenv
 # Bot information
 API_ID = getenv("API_ID", "23416113")
 API_HASH = getenv("API_HASH", "5f66046e7129c9bf6e2b3da943ae2993")
-BOT_TOKEN = getenv("BOT_TOKEN", "7784745166:AAFru3qJ-S8PGbfAtARMJa6m7BTrx3kt8_A")
+BOT_TOKEN = getenv("BOT_TOKEN", "7597872722:AAGHOenfojXY9uwKIYtJERnpCHPrH3Z5n4E")
 
 #Koyeb Vars And VPS 
 URL = getenv("URL", "")
